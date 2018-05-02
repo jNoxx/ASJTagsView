@@ -248,6 +248,8 @@
     }
     [view removeFromSuperview];
   }
+  
+  _tags = [NSMutableArray new];
 }
 
 - (void)addTags
