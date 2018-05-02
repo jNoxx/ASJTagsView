@@ -249,7 +249,7 @@
     [view removeFromSuperview];
   }
   
-  _tags = [NSMutableArray new];
+//  _tags = [NSMutableArray new];
 }
 
 - (void)addTags
